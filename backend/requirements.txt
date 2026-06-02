@@ -1,0 +1,16 @@
+langchain>=0.1.0
+langchain-classic
+langchain-community
+langchain-core
+langchain-qdrant
+langchain-ollama
+fastapi
+uvicorn
+langgraph
+qdrant-client
+ollama
+python-dotenv
+requests
+docling
+beautifulsoup4
+langchain-text-splitters
