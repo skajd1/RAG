@@ -4,9 +4,6 @@ MetsaBrain RAG는 Atlassian Confluence와 Jira 데이터를 Qdrant에 인덱싱�
 
 프론트엔드는 Next.js 채팅 UI, 백엔드는 FastAPI SSE API로 구성되어 있으며, 문서 수집부터 검색 범위 지정, 출처 확인, 자동 재인덱싱까지 한 흐름으로 사용할 수 있게 설계되어 있습니다.
 
-> 아래 화면은 README 설명을 위한 예시 이미지입니다. 실제 운영 데이터나 실제 사용자 화면이 아닙니다.
-
-![MetsaBrain answer example](assets/readme/chat-answer.png)
 
 ## 주요 기능
 
