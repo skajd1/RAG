@@ -1,6 +1,6 @@
-# MetsaBrain RAG
+# 사내 RAG
 
-MetsaBrain RAG는 Atlassian Confluence와 Jira 데이터를 Qdrant에 인덱싱하고, 하이브리드 검색으로 관련 문맥을 찾아 Ollama 기반 LLM 답변을 스트리밍하는 지식 검색/질의응답 시스템입니다.
+Atlassian Confluence와 Jira 데이터를 Qdrant에 인덱싱하고, 하이브리드 검색으로 관련 문맥을 찾아 Ollama 기반 LLM 답변을 스트리밍하는 지식 검색/질의응답 시스템입니다.
 
 프론트엔드는 Next.js 채팅 UI, 백엔드는 FastAPI SSE API로 구성되어 있으며, 문서 수집부터 검색 범위 지정, 출처 확인, 자동 재인덱싱까지 한 흐름으로 사용할 수 있게 설계되어 있습니다.
 
